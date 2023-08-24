@@ -38,5 +38,13 @@
   "description": "This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.1.0.",
   "main": "index.js",
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danielscarlazzetta/entepach-postulacion.git"
+  },
+  "bugs": {
+    "url": "https://github.com/danielscarlazzetta/entepach-postulacion/issues"
+  },
+  "homepage": "https://github.com/danielscarlazzetta/entepach-postulacion#readme"
 }
