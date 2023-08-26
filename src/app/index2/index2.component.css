@@ -30,6 +30,7 @@
   overflow: hidden;
   border-radius: 0 20px 0px 20px;
   margin: 0 20px;
+  box-shadow: 10px 10px 18px 5px;
 }
 
 .button,
@@ -42,7 +43,7 @@
   transform: translateX(22px);
   color: #fff;
   font-weight: 600;
-  font-size: 22px;
+  font-size: 20px;
 }
 
 .button .button__icon {
